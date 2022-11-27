@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Ayikanying Allan | Email: [allanayikanying72](allanayikanying72@gmail.com) 
+Ayikanying Allan | Email: allanayikanying72@gmail.com 
 
 Asemota Francis | Email: francisasemota.fa@gmail.com
